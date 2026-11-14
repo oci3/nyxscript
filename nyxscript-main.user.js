@@ -2,7 +2,7 @@
 // @name         nyxscript
 // @namespace    https://github.com/oci3/nyxscript
 // @version      15.2.2
-// @description  Cipher for Discord text + AES-GCM files + fake profiles with a drag-to-position editor. Right Shift opens settings, Alt+N toggles on/off.
+// @description  cipher for discord text + AES-GCM files + fake profiles with a drag-to-position editor. right shift opens settings ui, alt+n toggles on/off.
 // @author       oci3
 // @match        https://discord.com/*
 // @grant        GM_xmlhttpRequest
@@ -16,6 +16,8 @@
 // @connect      tenor.com
 // @connect      *
 // @run-at       document-start
+// @downloadURL https://github.com/oci3/nyxscript/raw/refs/heads/main/nyxscript-main.user.js
+// @updateURL https://github.com/oci3/nyxscript/raw/refs/heads/main/nyxscript-main.user.js
 // ==/UserScript==
 
 (function () {
